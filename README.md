@@ -1,7 +1,7 @@
 # Wozmon-8085
 Wozmon intel 8085 Port By Dr. Peker
 
-This version can be run standalone i8085 without UART (using RIM and SIM ports is i/o
+This version can be run standalone i8085 without UART (using RIM and SIM pins  as  I/O )
 
 Simply connect them to a USB-Serial converter.
 
